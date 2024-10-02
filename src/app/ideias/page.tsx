@@ -11,11 +11,11 @@ export default function Ideias() {
 
           <article className="flex justify-between items-center max-w-6xl gap-10 p-10">
             <p className="text-justify">Em seu livro Worlds in Collision, Immanuel Velikovsky nos convida a uma viagem desafiadora e extraordinária, sugerindo que a Terra e a humanidade testemunharam catástrofes cósmicas de escala inimaginável. A afirmação principal de Velikovsky é que o corpo terrestre ou, mais precisamente, sua civilização, teve encontros próximos e bastante dramáticos com outros corpos celestes, mormente Vênus e Marte, meramente no ritmo de poucos milhares de anos. Tais incidentes causaram terremotos, inundações e mudanças de temperatura que enfeitam o volume catastrófico da conhecimento humanidade.</p>
-            <Image className="w-auto h-auto" src="http://images-assets.nasa.gov/image/PIA23791/PIA23791~orig.jpg" width={200} height={200} alt="Imagem do Planeta Vênus"></Image>
+            <Image className="w-auto h-auto" src="https://images-assets.nasa.gov/image/PIA23791/PIA23791~orig.jpg" width={200} height={200} alt="Imagem do Planeta Vênus"></Image>
           </article>
 
           <article className="flex justify-between items-center max-w-6xl gap-10 p-10">
-            <Image className="w-auto h-auto" src="http://images-assets.nasa.gov/image/PIA01324/PIA01324~orig.jpg" width={200} height={200} alt="Imagem do Planeta Júpiter"></Image>
+            <Image className="w-auto h-auto" src="https://images-assets.nasa.gov/image/PIA01324/PIA01324~orig.jpg" width={200} height={200} alt="Imagem do Planeta Júpiter"></Image>
             <p className="text-justify">Numa de suas teses mais cativantes, Velikovsky pressupõe que Vênus, que hoje nos parece um planeta calmo no globo, seria um cometa criado por Júpiter, que vagou para o sistema e se aproximou da Terra com a devida periculosidade, colocando o planeta abaixo do pânico antes de acalmar em a órbita com a qual estamos perfeitamente familiarizados hoje. Mas de dia para noite, há uns quatro ou cinco milênios, todos os eventos acima mencionados deram a imprensão, e as fontes anteriores são um sutil lembrete prático de que ninguém noções exatamente quanto em tempo presente. A história de Velikovsky é diretamente relacionada com a descrição dos eventos que antigo em textos sagrados, lendas e mitos de diametralmente nações e tradições. Na verdade, a Estudo, ou seja, a Estudo sideral como saber, dever-se-ia escassamente adivinhar tal história como um delírio da imaginação, tesouro Velikovsky.</p>
           </article>
 

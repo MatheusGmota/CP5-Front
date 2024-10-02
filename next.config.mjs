@@ -13,12 +13,6 @@ const nextConfig = {
         hostname: 'images-assets.nasa.gov',
         port:'',
         pathname: '/**'
-      },
-      {
-        protocol: 'http',
-        hostname: 'images-assets.nasa.gov',
-        port:'',
-        pathname: '/**'
       }
     ]
   }
