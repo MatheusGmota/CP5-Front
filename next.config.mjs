@@ -1,15 +1,20 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images:{
-        remotePatterns:[
+        remotePatterns: [
             {
-                protocol: 'https',
-                hostname: '',
-                port:'',
-                pathname: '/**',
+              protocol: 'https', 
+              hostname: 'http.cat', 
+              port: '', 
+              pathname: '/**'
+            },
+            {
+              protocol: 'http',
+              hostname: 'images-assets.nasa.gov',
+              port:'',
+              pathname: '/**'  
             }
-        ],
-    },
+        ]
+    }
 };
 
 export default nextConfig;
