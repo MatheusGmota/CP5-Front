@@ -7,6 +7,11 @@ export const metadata: Metadata = {
   description: "Explorando as Ideias de Immanuel Velikovsky com Next.js",
 };
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1.0
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{

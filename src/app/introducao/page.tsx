@@ -13,7 +13,7 @@ export default function Introducao() {
             <p className="text-justify">
               Worlds in Collision, escrito por Immanuel Velikovsky em 1950, é uma obra controversa que propõe que eventos cataclísmicos no passado da Terra foram causados por interações com outros corpos celestes, especialmente Vênus e Marte. Velikovsky sugere que, em épocas antigas, Vênus foi ejetado como um cometa do planeta Júpiter e teve uma trajetória que a aproximou da Terra, causando uma série de eventos catastrofais como terremotos, inundações e mudanças climáticas extremas, que seriam responsáveis por relatos presentes em diversas mitologias e textos religiosos ao redor do mundo.
               </p>
-            <Image src="http://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg" alt="Imagem do Planeta Vênus" width={350} height={150}/>
+            <Image className="w-auto h-auto" src="http://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg" alt="Imagem do Planeta Vênus" width={200} height={200}/>
           </article>
         </section>
       </main>
