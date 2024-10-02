@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/ @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     remotePatterns: [
@@ -6,19 +6,19 @@ const nextConfig = {
         protocol: 'https', 
         hostname: 'http.cat', 
         port: '', 
-        pathname: '/**'
+        pathname: '/'
       },
       {
         protocol: 'https',
         hostname: 'images-assets.nasa.gov',
         port:'',
-        pathname: '/**'  
+        pathname: '/'
       },
       {
         protocol: 'http',
         hostname: 'images-assets.nasa.gov',
         port:'',
-        pathname: '/**'  
+        pathname: '/'
       }
     ]
   }
